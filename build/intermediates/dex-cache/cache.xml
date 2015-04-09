@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Ethan\AndroidStudioProjects\Imgur\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Ethan\AndroidStudioProjects\Imgur\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-0a9a4e6b5197bfb799001b1f430afd6f1fe62bc1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ethan\AndroidStudioProjects\Imgur\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Ethan\AndroidStudioProjects\Imgur\app\build\intermediates\pre-dexed\debug\classes-cfd80c9c00314e7da157a428eb5dabbb5358b0e6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ethan\AndroidStudioProjects\Imgur\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Ethan\AndroidStudioProjects\Imgur\app\build\intermediates\pre-dexed\debug\classes-98f16dfba05fd9ddeb02e824b6937155a5f36d57.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ethan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Ethan\AndroidStudioProjects\Imgur\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-171c3cc0fc0216779ff5bdf85bb1ca08425f8f3e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ethan\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.15\9093a362d18c5f81f58e49d86dece57d9b6e1cb7\library-1.0.15.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9093a362d18c5f81f58e49d86dece57d9b6e1cb7">
+        <dex dex="C:\Users\Ethan\AndroidStudioProjects\Imgur\app\build\intermediates\pre-dexed\debug\library-1.0.15-8ec93fe6c1b62c5db74c15e355e59345084347eb.jar" />
+    </item>
+
+</items>
